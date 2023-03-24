@@ -1,6 +1,6 @@
 # Mailer
 
-My undergraduate work (award grade A), a music website for email sending, implemented by PHP. 
+My undergraduate work (grade A awarded), a music website for email sending, implemented by PHP. 
 
 This experiment relies on Google WEB SPEECH API, through PHP, JS, HTML language to write a professional email sending webpage that can realize Text-to-speech, speech recognition, save mailbox content, save sending object, can realize single sending or group sending function.
 
